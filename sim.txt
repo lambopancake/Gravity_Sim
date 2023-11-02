@@ -1,2 +1,0 @@
-This will simulate how a ball would bouce on earth 
-it will include height, gravity, air-resistance, and more
